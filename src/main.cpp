@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include "lib.h"
-#include "try.h"
+#include "hello.h"
 
 int main(){
 	int a, b, g, h, i, k, l;
